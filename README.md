@@ -1,5 +1,9 @@
 # air-quality-solution
 
-## run locally
--`npm install`
--`npm run dev`
+## Run locally
+
+Install dependencies:
+`npm install`
+
+Run dev server:
+`npm run dev`
