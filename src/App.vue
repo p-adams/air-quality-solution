@@ -192,6 +192,7 @@ export default {
   }
 }
 .smoke-banner {
+  background-color: grey;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
